@@ -8,6 +8,4 @@ $(".navbar a").click(function(){
     },1000)
     
    })
-   function display(){
-            document.querySelector
-   }
+   
